@@ -1,0 +1,28 @@
+.selectTab{
+    /* float: right; */
+    font-size: 24px;
+    display: flex;
+    justify-content: flex-end;
+    flex: 1;
+}
+.selectBox{
+    height: auto;
+    width: 100%;
+    padding: 10px 5px;
+    border-radius: 10px;
+    font-size: 18px;
+
+}
+.optionTab{
+    border-radius: 50px;
+    font-size: 18px;
+}
+.labelTab{
+    color: white;
+    margin-right: 10px;
+    font-size: 24px;
+}
+.languageSection{
+    display: flex;
+    align-items: center;
+}
